@@ -1,4 +1,5 @@
-- [ ] Create reusable template
+- [ ] Set up `boostrap-vue`
+- [x] Create reusable template
 - [ ] Match package versions
 - [ ] Configure ESLint rules
 - [ ] Set up Yarn in the project
